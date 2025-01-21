@@ -1,9 +1,5 @@
-# MyLearningMentor
-"Elements of AI" Building AI course project idea for utilizing AI in an individual's educational journey.
-
-
-# My Learning Mentor
-
+# M yLearning Mentor
+## Summary: "Elements of AI" Building AI course project idea for utilizing AI in an individual's educational journey.
 1. **Your idea in a nutshell**: Name your project and prepare to describe it briefly.
     1. AI Idea: My Learning Mentor
         1. A pedagogical expert assisting you in exploring and learning areas of interest.
